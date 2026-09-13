@@ -142,12 +142,6 @@ Conecte-se ao meu terminal para trocar ideias sobre tecnologia e estudos:
   <a href="https:// https://www.linkedin.com/in/laraikeda?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@domain.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
 </div>
 
 <br />
