@@ -27,6 +27,8 @@
 +   age: "20",
 +
 +   place of birth: "Japan",
++
++   nationality: "Brazilian",
 + 
 +   role: "Student in CS50x (Harvard)",
 +         "Atuarial Science Student",
