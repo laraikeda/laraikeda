@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Principal (Preto e Verde Matrix) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
 
 <!-- Typing Animation (Fonte de Terminal, Preto e Verde) -->
 <a href="https://git.io/typing-svg">
