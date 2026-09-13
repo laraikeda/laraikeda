@@ -18,8 +18,6 @@
 
   <br />
 
-  <!-- 💡 NOTA IMPORTANTE PARA VOCÊ, LARA: Substitua todas as palavras 'SEU_USUARIO' abaixo pelo seu nome de usuário do GitHub para ativar os gráficos automáticos! -->
-
   <!-- SEÇÃO TROFÉUS (SISTEMA DE CONQUISTAS) -->
   <img src="https://vercel.app" alt="GitHub Trophies" width="100%" />
 
@@ -139,7 +137,7 @@ Aqui ficarão armazenados os principais marcos da minha evolução:
 Conecte-se ao meu terminal para trocar ideias sobre tecnologia e estudos:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/laraikeda?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </div>
