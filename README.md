@@ -10,20 +10,16 @@
 
 <br><br>
 
-<!-- Botão do LinkedIn Estilo Matrix Verde Neon -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41)](https://linkedin.com/in/laraikeda)
+<!-- Botão do LinkedIn Futurista / Cyberpunk Matrix -->
+<a href="https://linkedin.com/in/laraikeda">
+  <img src="https://img.shields.io/badge/⚡_CONNECT_//_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&color=000000&labelColor=000000" alt="LinkedIn Futurista" style="border: 1px solid #00FF41; border-radius: 4px;" />
+</a>
 
-<br>
+<br><br>
 
-<br>
+---
 
-<!-- Linha Divisoria Verde Matrix (Substituindo a linha cinza comum) -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56a-0d88502f15e7.gif" width="100%">
-
-<br>
-
-<!-- Título Animado corrigido -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=▒▒+SOBRE+MIM+▒▒" alt="Typing SVG" />
+<h3 style="color: #00FF41;">▒▒ SOBRE MIM ▒▒</h3>
 
 </div>
 
@@ -53,53 +49,3 @@
 +   quote: "There is no spoon."
 + 
 + };
-```
-
-<div align="center">
-
-<br>
-
-<!-- Linha Divisoria Verde Matrix -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56a-0d88502f15e7.gif" width="100%">
-
-<br>
-
-### ▒▒ TECH STACK (CS50x) ▒▒
-
-<br>
-
-<!-- Ícones de Habilidades (Linguagens do CS50) -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
-</a>
-
-<br><br>
-
-<!-- Linha Divisoria Verde Matrix -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56a-0d88502f15e7.gif" width="100%">
-
-<br>
-
-### ▒▒ FERRAMENTAS UTILIZADAS ▒▒
-
-<br>
-
-<!-- Ícones de Ferramentas -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
-</a>
-
-<br><br>
-
-<!-- Linha Divisoria Verde Matrix -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56a-0d88502f15e7.gif" width="100%">
-
-<br>
-
-<!-- Rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
-<p align="center">
-  <code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
-</p>
-
-</div>
