@@ -17,36 +17,39 @@
 
 ---
 
-### ▒▒ SOBRE MIM ▒▒
+<!-- Título Animado: Da esquerda para a direita -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=▒▒+SOBRE+MIM+▒▒;INITIALIZING+DEVELOPER+PROFILE..." alt="Typing SVG" />
+</a>
 
 </div>
 
-```ansi
-[32mconst Developer = {[0m
-[32m[0m
-[32m  name: "[Lara Ikeda]",[0m
-[32m[0m
-[32m  role: "Student in CS50x (Harvard)",[0m
-[32m[0m
-[32m  location: "The Matrix 💻",[0m
-[32m[0m
-[32m  focus: [[0m
-[32m    "Computer Science",[0m
-[32m    "Low-level Memory Management",[0m
-[32m    "Algorithms & Data Structures",[0m
-[32m    "Web Development"[0m
-[32m  ],[0m
-[32m[0m
-[32m  currentlyLearning: [[0m
-[32m    "C",[0m
-[32m    "Python",[0m
-[32m    "SQL / Databases",[0m
-[32m    "Flask Framework"[0m
-[32m  ],[0m
-[32m[0m
-[32m  quote: "There is no spoon."[0m
-[32m[0m
-[32m};[0m
+```diff
++ const Developer = {
++ 
++   name: "[Lara Ikeda]",
++ 
++   role: "Student in CS50x (Harvard)",
++ 
++   location: "The Matrix 💻",
++ 
++   focus: [
++     "Computer Science",
++     "Low-level Memory Management",
++     "Algorithms & Data Structures",
++     "Web Development"
++   ],
++ 
++   currentlyLearning: [
++     "C",
++     "Python",
++     "SQL / Databases",
++     "Flask Framework"
++   ],
++ 
++   quote: "There is no spoon."
++ 
++ };
 ```
 
 <div align="center">
