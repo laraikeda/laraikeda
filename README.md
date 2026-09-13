@@ -51,7 +51,7 @@
 
 <br>
 
-###    TECH STACK (CS50x) 
+###    LINGUAGENS (CS50x) 
 
 <br>
 
