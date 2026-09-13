@@ -74,7 +74,7 @@
 <br><br>
 
 ​<!-- Rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=footer&bg_color=000000" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
 
 ​<!-- Animação no Rodapé -->
 <a href="https://git.io/typing-svg">
