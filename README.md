@@ -26,7 +26,7 @@
 +
 +   age: "20",
 +
-+   country of birth: "Japan",
++   place of birth: "Japan",
 + 
 +   role: "Student in CS50x (Harvard)",
 +         "Atuarial Science Student",
