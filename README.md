@@ -78,7 +78,7 @@
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
 </a>
 
-<br><br>
+<br>
 
 ​<!-- Rodapé -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
