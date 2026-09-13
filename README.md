@@ -31,6 +31,7 @@
 + 
 +   focus: [
 +     "Data Analisys"
++     "Probability & Statistics"
 +     "Computer Science",
 +     "Low-level Memory Management",
 +     "Algorithms & Data Structures",
