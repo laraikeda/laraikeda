@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Banner Principal (Verde Matrix) -->
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
 
-<!-- Typing Animation (Fonte de Terminal, Verde) -->
-<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-  <img src="[https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Wake+up...;The+Matrix+has+you...;Studying+Computer+Science+(CS50x)...;Follow+the+white+rabbit](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Wake+up...;The+Matrix+has+you...;Studying+Computer+Science+(CS50x)...;Follow+the+white+rabbit)." alt="Typing SVG" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Wake+up...;The+Matrix+has+you...;Studying+Computer+Science+(CS50x)...;Follow+the+white+rabbit." alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -21,8 +21,8 @@
 
 </div>
 
-<p align="left">
-  <pre style="background-color: #000000; color: #00FF41; font-family: monospace; padding: 16px; border-radius: 6px; border: 1px solid rgba(0, 255, 65, 0.2);"><code>const Developer = {
+```javascript
+const Developer = {
 
   name: "Lara Ikeda",
 
@@ -46,45 +46,4 @@
 
   quote: "There is no spoon."
 
-};</code></pre>
-</p>
-
-<div align="center">
-
-<br>
-
----
-
-### ▒▒ TECH STACK (CS50x) ▒▒
-
-<br>
-
-<!-- Ícones de Habilidades (Linguagens do CS50) -->
-<a href="[https://skillicons.dev](https://skillicons.dev)">
-  <img src="[https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark](https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark)" alt="Linguagens CS50x" />
-</a>
-
-<br><br>
-
----
-
-### ▒▒ FERRAMENTAS UTILIZADAS ▒▒
-
-<br>
-
-<!-- Ícones de Ferramentas -->
-<a href="[https://skillicons.dev](https://skillicons.dev)">
-  <img src="[https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark)" alt="Ferramentas" />
-</a>
-
-<br><br>
-
----
-
-<!-- Rodapé Elegante -->
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000)" width="100%" />
-<p align="center">
-  <code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
-</p>
-
-</div>
+};
