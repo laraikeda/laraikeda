@@ -22,7 +22,7 @@
 ```diff
 + const Developer = {
 + 
-+   name: "Lara Ikeda",
++   name: "Lara",
 +
 +   age: "20",
 +
