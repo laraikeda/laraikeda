@@ -53,7 +53,7 @@
 
 <br>
 
-###    LINGUAGENS (CS50x) 
+###    Programming Lenguage (CS50x) 
 
 <br>
 
@@ -64,7 +64,7 @@
 
 <br><br>
 
-###    FERRAMENTAS UTILIZADAS 
+###    Programming Tools 
 
 <br>
 
