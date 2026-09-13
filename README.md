@@ -21,32 +21,32 @@
 
 </div>
 
-```diff
-+ const Developer = {
-+ 
-+   name: "[Lara Ikeda]",
-+ 
-+   role: "Student in CS50x (Harvard)",
-+ 
-+   location: "The Matrix 💻",
-+ 
-+   focus: [
-+     "Computer Science",
-+     "Low-level Memory Management",
-+     "Algorithms & Data Structures",
-+     "Web Development"
-+   ],
-+ 
-+   currentlyLearning: [
-+     "C",
-+     "Python",
-+     "SQL / Databases",
-+     "Flask Framework"
-+   ],
-+ 
-+   quote: "There is no spoon."
-+ 
-+ };
+```javascript
+const Developer = {
+
+  name: "[Lara Ikeda]",
+
+  role: "Student in CS50x (Harvard)",
+
+  location: "The Matrix 💻",
+
+  focus: [
+    "Computer Science",
+    "Low-level Memory Management",
+    "Algorithms & Data Structures",
+    "Web Development"
+  ],
+
+  currentlyLearning: [
+    "C",
+    "Python",
+    "SQL / Databases",
+    "Flask Framework"
+  ],
+
+  quote: "There is no spoon."
+
+};
 ```
 
 <div align="center">
