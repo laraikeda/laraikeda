@@ -21,32 +21,32 @@
 
 </div>
 
-```javascript
-+ const Developer = {
-+ 
-+   name: "[Lara Ikeda]",
-+ 
-+   role: "Student in CS50x (Harvard)",
-+ 
-+   location: "The Matrix 💻",
-+ 
-+   focus: [
-+     "Computer Science",
-+     "Low-level Memory Management",
-+     "Algorithms & Data Structures",
-+     "Web Development"
-+   ],
-+ 
-+   currentlyLearning: [
-+     "C",
-+     "Python",
-+     "SQL / Databases",
-+     "Flask Framework"
-+   ],
-+ 
-+   quote: "There is no spoon."
-+ 
-+ };
+```ansi
+[32mconst Developer = {[0m
+[32m[0m
+[32m  name: "[Lara Ikeda]",[0m
+[32m[0m
+[32m  role: "Student in CS50x (Harvard)",[0m
+[32m[0m
+[32m  location: "The Matrix 💻",[0m
+[32m[0m
+[32m  focus: [[0m
+[32m    "Computer Science",[0m
+[32m    "Low-level Memory Management",[0m
+[32m    "Algorithms & Data Structures",[0m
+[32m    "Web Development"[0m
+[32m  ],[0m
+[32m[0m
+[32m  currentlyLearning: [[0m
+[32m    "C",[0m
+[32m    "Python",[0m
+[32m    "SQL / Databases",[0m
+[32m    "Flask Framework"[0m
+[32m  ],[0m
+[32m[0m
+[32m  quote: "There is no spoon."[0m
+[32m[0m
+[32m};[0m
 ```
 
 <div align="center">
