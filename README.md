@@ -22,7 +22,8 @@
 </div>
 
 ```diff
-const Developer = {
+<p align="left">
+  <pre style="background-color: #000000; color: #00FF41; font-family: monospace; padding: 16px; border-radius: 6px; border: 1px solid rgba(0, 255, 65, 0.3);"><code>const Developer = {
 
   name: "Lara Ikeda",
 
@@ -45,6 +46,9 @@ const Developer = {
   ],
 
   quote: "There is no spoon."
+
+};</code></pre>
+</p>
 
 };
 ```
