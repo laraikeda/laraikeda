@@ -22,30 +22,26 @@
 </div>
 
 ```diff
-<p align="left">
-  <pre style="background-color: #000000; color: #00FF41; font-family: monospace; padding: 16px; border-radius: 6px; border: 1px solid rgba(0, 255, 65, 0.3);"><code>const Developer = {
-
-  name: "Lara Ikeda",
-
-  role: "Student in CS50x (Harvard)",
-
-  location: "The Matrix 💻",
-
-  focus: [
-    "Computer Science",
-    "Low-level Memory Management",
-    "Algorithms & Data Structures",
-    "Web Development"
-  ],
-
-  currentlyLearning: [
-    "C",
-    "Python",
-    "SQL / Databases",
-    "Flask Framework"
-  ],
-
-  quote: "There is no spoon."
+<div align="left" style="background-color: #000000; padding: 16px; border-radius: 6px; border: 1px solid rgba(0, 255, 65, 0.3); font-family: monospace; color: #00FF41; line-height: 1.5;">
++ const Developer = {<br>
++ &nbsp;&nbsp;name: "Lara Ikeda",<br>
++ &nbsp;&nbsp;role: "Student in CS50x (Harvard)",<br>
++ &nbsp;&nbsp;location: "The Matrix 💻",<br>
++ &nbsp;&nbsp;focus: [<br>
++ &nbsp;&nbsp;&nbsp;&nbsp;"Computer Science",<br>
++ &nbsp;&nbsp;&nbsp;&nbsp;"Low-level Memory Management",<br>
++ &nbsp;&nbsp;&nbsp;&nbsp;"Algorithms & Data Structures",<br>
++ &nbsp;&nbsp;&nbsp;&nbsp;"Web Development"<br>
++ &nbsp;&nbsp;],<br>
++ &nbsp;&nbsp;currentlyLearning: [<br>
++ &nbsp;&nbsp;&nbsp;&nbsp;"C",<br>
++ &nbsp;&nbsp;&nbsp;&nbsp;"Python",<br>
++ &nbsp;&nbsp;&nbsp;&nbsp;"SQL / Databases",<br>
++ &nbsp;&nbsp;&nbsp;&nbsp;"Flask Framework"<br>
++ &nbsp;&nbsp;],<br>
++ &nbsp;&nbsp;quote: "There is no spoon."<br>
++ };
+</div>
 
 };</code></pre>
 </p>
