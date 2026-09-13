@@ -24,7 +24,7 @@
 ```diff
 + const Developer = {
 + 
-+   name: "[SEU NOME]",
++   name: "[Lara Ikeda]",
 + 
 +   role: "Student in CS50x (Harvard)",
 + 
