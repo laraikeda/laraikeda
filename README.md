@@ -10,14 +10,14 @@
 
 <br><br>
 
-<!-- LinkedIn (Fundo Preto e Letra Verde Matrix) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41)](https://linkedin.com/in/laraikeda)
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/laraikeda)
 
 <br>
 
 ---
 
-### ▒▒ SOBRE MIM ▒▒
+###    SOBRE MIM 
 
 </div>
 
@@ -47,27 +47,44 @@
 +   quote: "There is no spoon."
 + 
 + };
+```
 
 <div align="center">
 
-​   TECH STACK (CS50x) 
+<br>
 
-​<!-- Ícones de Habilidades (Linguagens do CS50) -->
+---
+
+###    TECH STACK (CS50x) 
+
+<br>
+
+<!-- Ícones de Habilidades (Linguagens do CS50) -->
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
+  <img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
 </a>
 
-​   FERRAMENTAS UTILIZADAS 
+<br><br>
 
-​<!-- Ícones de Ferramentas -->
+---
+
+###    FERRAMENTAS UTILIZADAS 
+
+<br>
+
+<!-- Ícones de Ferramentas -->
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
 </a>
 
-​<!-- Rodapé -->
+<br><br>
+
+---
+
+<!-- Rodapé Elegante -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
 <p align="center">
-<code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
+  <code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
 </p>
 
-​</div>
+</div>
