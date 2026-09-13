@@ -57,7 +57,7 @@
 
 <!-- Ícones de Habilidades (Linguagens do CS50) -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=scratch,c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
+  <img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
 </a>
 
 <br><br>
