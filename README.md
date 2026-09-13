@@ -10,16 +10,14 @@
 
 <br><br>
 
-<!-- Botão do LinkedIn Futurista / Cyberpunk Matrix -->
-<a href="https://linkedin.com/in/laraikeda">
-  <img src="https://img.shields.io/badge/⚡_CONNECT_//_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&color=000000&labelColor=000000" alt="LinkedIn Futurista" style="border: 1px solid #00FF41; border-radius: 4px;" />
-</a>
+<!-- LinkedIn (Fundo Preto e Letra Verde Matrix) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41)](https://linkedin.com/in/laraikeda)
 
-<br><br>
+<br>
 
 ---
 
-<h3 style="color: #00FF41;">▒▒ SOBRE MIM ▒▒</h3>
+### ▒▒ SOBRE MIM ▒▒
 
 </div>
 
@@ -52,14 +50,14 @@
 
 <div align="center">
 
-​<h3 style="color: #00FF41;">▒▒ TECH STACK (CS50x) ▒▒</h3>
+​   TECH STACK (CS50x) 
 
 ​<!-- Ícones de Habilidades (Linguagens do CS50) -->
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
 </a>
 
-​<h3 style="color: #00FF41;">▒▒ FERRAMENTAS UTILIZADAS ▒▒</h3>
+​   FERRAMENTAS UTILIZADAS 
 
 ​<!-- Ícones de Ferramentas -->
 <a href="https://skillicons.dev">
