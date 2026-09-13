@@ -1,4 +1,4 @@
-O meu está assim: <div align="center">
+<div align="center">
 
 <!-- Banner Principal (Verde Matrix) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
@@ -22,31 +22,31 @@ O meu está assim: <div align="center">
 </div>
 
 ```diff
-+ const Developer = {
-+ 
-+   name: "[Lara Ikeda]",
-+ 
-+   role: "Student in CS50x (Harvard)",
-+ 
-+   location: "The Matrix 💻",
-+ 
-+   focus: [
-+     "Computer Science",
-+     "Low-level Memory Management",
-+     "Algorithms & Data Structures",
-+     "Web Development"
-+   ],
-+ 
-+   currentlyLearning: [
-+     "C",
-+     "Python",
-+     "SQL / Databases",
-+     "Flask Framework"
-+   ],
-+ 
-+   quote: "There is no spoon."
-+ 
-+ };
+const Developer = {
+
+  name: "Lara Ikeda",
+
+  role: "Student in CS50x (Harvard)",
+
+  location: "The Matrix 💻",
+
+  focus: [
+    "Computer Science",
+    "Low-level Memory Management",
+    "Algorithms & Data Structures",
+    "Web Development"
+  ],
+
+  currentlyLearning: [
+    "C",
+    "Python",
+    "SQL / Databases",
+    "Flask Framework"
+  ],
+
+  quote: "There is no spoon."
+
+};
 ```
 
 <div align="center">
