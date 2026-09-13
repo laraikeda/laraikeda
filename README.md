@@ -1,130 +1,42 @@
-<!-- CONTAINER PRINCIPAL -->
 <div align="center">
 
-  <!-- BANNER PRINCIPAL: TEMA CYBERPUNK / IA -->
-  <img src="https://vercel.app" width="100%" alt="Lara Ikeda Banner" />
+<!-- Banner Principal -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=SYSTEM%20ONLINE&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=ACCESS%20GRANTED&descAlignY=55&descAlign=50" width="100%" />
 
-  <!-- APRESENTAÇÃO / TYPING ANIMATION -->
-  <h1>
-    <img src="https://demolab.com..." alt="Typing Animation" />
-  </h1>
+<!-- Efeito de Inicialização / Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;LOADING+DATABANKS...;J.A.R.V.I.S.+PROTOCOL:+ENGAGED;MAY+THE+FORCE+BE+WITH+YOUR+CODE.;GREETINGS,+COMMANDER." alt="Typing SVG" />
+</a>
 
-  <!-- BADGES DE STATUS -->
-  <p align="center">
-    <img src="https://shields.io" alt="Status">
-    <img src="https://shields.io" alt="Location">
-    <img src="https://shields.io" alt="Harvard CS50x">
-  </p>
+<br><br>
 
-  <br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117&border=00FFFF)](https://linkedin.com/in/[SEU-LINKEDIN])
+[![Repositórios](https://img.shields.io/github/repos/[SEU-USUARIO]?style=for-the-badge&color=00FF00&labelColor=0D1117&logo=github&logoColor=00FF00)](https://github.com/[SEU-USUARIO]?tab=repositories)
 
-  <!-- SEÇÃO TROFÉUS (SISTEMA DE CONQUISTAS) -->
-  <img src="https://vercel.app" alt="GitHub Trophies" width="100%" />
+---
+
+### ▒▒▒ CORE DATABANKS: SOBRE MIM ▒▒▒
 
 </div>
 
-<br />
+> "A interface do usuário é como uma piada. Se você tem que explicá-la, não é boa." 
+> — *Registro do Sistema*
 
-## 👩‍💻 :: SYSTEM_OVERVIEW (Sobre Mim)
+Bem-vindo ao meu terminal. Sou um desenvolvedor focado em construir soluções eficientes, arquiteturas limpas e experiências de usuário futuristas. Atualmente navegando pelas complexidades da ciência da computação e aprimorando fundamentos lógicos e algoritmos estruturais no CS50x. Meu objetivo é transformar café e linhas de código em sistemas que resolvem problemas reais.
 
-```prolog
-[ID] Lara Ikeda
-[ROLE] Full-Stack Padawan & Tech Explorer
-[CURRENT_MISSION] Decoding computer science secrets through Harvard's CS50x 🎓
-[OBJECTIVE] Transform lines of code into intelligent solutions
-```
-
-Dando meus primeiros passos no vasto universo da programação! Atualmente imersa na lógica pura, algoritmos e estruturas de dados do curso **CS50x de Harvard**. Sou fascinada pela intersecção entre o design moderno, interfaces futuristas e códigos limpos. 
-
----
-
-## 🛠️ :: TECH_STACK (Conhecimentos em Expansão)
-
-Os módulos e tecnologias que estou destravando na minha jornada acadêmica e prática:
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev" width="40" height="40" alt="C" /><br />
-      <sub><b>C (Base CS50)</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev" width="40" height="40" alt="Python" /><br />
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev" width="40" height="40" alt="HTML/CSS" /><br />
-      <sub><b>HTML5 / CSS3</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev" width="40" height="40" alt="JavaScript" /><br />
-      <sub><b>JavaScript</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev" width="40" height="40" alt="SQL" /><br />
-      <sub><b>SQL</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev" width="40" height="40" alt="Git" /><br />
-      <sub><b>Git & GitHub</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev" width="40" height="40" alt="VS Code" /><br />
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev" width="40" height="40" alt="Linux" /><br />
-      <sub><b>Linux Terminal</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 :: METRICS_MONITOR (Painel de Controle)
+<br>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="GitHub Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://vercel.app" alt="Top Languages" height="180px" />
-      </td>
-    </tr>
-  </table>
 
-  <br />
+### ▒▒▒ DIRETRIZES ATUAIS (TERMINAL) ▒▒▒
 
-  <!-- GRÁFICO DE ATIVIDADE COMPLETO -->
-  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
-
-  <br /><br />
-  
-  <!-- SNAKE ANIMATION: O JOGO DA COBRINHA COM SEUS COMMITS -->
-  <h3>👾 :: MATRIX_RECONSTRUCTION (Commit Snake)</h3>
-  <img src="https://githubusercontent.com" alt="Snake Animation" width="100%" />
 </div>
 
----
-
-## 🌐 :: COM_LINK (Redes Sociais)
-
-Conecte-se ao meu terminal para trocar ideias sobre tecnologia e estudos:
-
-<div align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</div>
-
-<br />
-
----
-
-<div align="center">
-  <sub>⚡ Desenvolvido sob a influência de café e criptografia visual. Terminal encerrando em 3... 2... 1... 🖥️</sub>
-</div>
+```bash
+root@mainframe:~# ./status_check.sh
+[+] Executando varredura de objetivos...
+[+] Status Atual: Estudando Ciência da Computação (CS50x).
+[+] Foco Principal: Algoritmos, Estruturas de Dados e Resolução de Problemas em C/Python.
+[+] Próximo Upgrade: Dominar arquiteturas Back-end e integração de IA.
+[+] Hobbies: Explorar documentações cósmicas e caçar bugs na matrix.
+root@mainframe:~# █
