@@ -25,10 +25,12 @@
 +   name: "[Lara Ikeda]",
 + 
 +   role: "Student in CS50x (Harvard)",
-+ 
++         "Atuarial Science Student",
++
 +   location: "The Matrix 💻",
 + 
 +   focus: [
++     "Data Analisys"
 +     "Computer Science",
 +     "Low-level Memory Management",
 +     "Algorithms & Data Structures",
