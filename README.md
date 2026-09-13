@@ -10,7 +10,7 @@
 
 <br><br>
 
-<!-- LinkedIn (Estilo Terminal) -->
+<!-- LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/[SEU-LINKEDIN])
 
 <br>
@@ -22,33 +22,69 @@
 </div>
 
 ```diff
-+ "There is no spoon."
-+
-+ Bem-vindo à realidade. 
-+
-+ Sou um estudante navegando pelo sistema, atualmente decodificando
-+ a ciência da computação através do rigoroso treinamento do CS50x 
-+ de Harvard. 
-+
-+ Meu foco é dominar as regras estruturais da programação — desde o 
-+ gerenciamento de memória em baixo nível até a construção de 
-+ servidores web. A cada linha de código, aprendo a manipular a 
-+ Matrix para resolver problemas reais.
++ const Developer = {
++ 
++   name: "[SEU NOME]",
++ 
++   role: "Student in CS50x (Harvard)",
++ 
++   location: "The Matrix 💻",
++ 
++   focus: [
++     "Computer Science",
++     "Low-level Memory Management",
++     "Algorithms & Data Structures",
++     "Web Development"
++   ],
++ 
++   currentlyLearning: [
++     "C",
++     "Python",
++     "SQL / Databases",
++     "Flask Framework"
++   ],
++ 
++   quote: "There is no spoon."
++ 
++ };
+```
 
 <div align="center">
-​▒▒ TECH STACK (CS50x) ▒▒
-​<!-- Ícones de Habilidades (Linguagens do CS50) idênticas à sua imagem -->
+
+<br>
+
+---
+
+### ▒▒ TECH STACK (CS50x) ▒▒
+
+<br>
+
+<!-- Ícones de Habilidades (Linguagens do CS50) -->
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
+  <img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
 </a>
-​▒▒ FERRAMENTAS UTILIZADAS ▒▒
-​<!-- Ícones de Ferramentas -->
+
+<br><br>
+
+---
+
+### ▒▒ FERRAMENTAS UTILIZADAS ▒▒
+
+<br>
+
+<!-- Ícones de Ferramentas -->
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
 </a>
-​<!-- Rodapé Elegante -->
+
+<br><br>
+
+---
+
+<!-- Rodapé Elegante -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
 <p align="center">
-<code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
+  <code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
 </p>
-​</div>
+
+</div>
