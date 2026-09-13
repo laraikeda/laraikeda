@@ -49,3 +49,27 @@
 +   quote: "There is no spoon."
 + 
 + };
+
+<div align="center">
+
+​<h3 style="color: #00FF41;">▒▒ TECH STACK (CS50x) ▒▒</h3>
+
+​<!-- Ícones de Habilidades (Linguagens do CS50) -->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
+</a>
+
+​<h3 style="color: #00FF41;">▒▒ FERRAMENTAS UTILIZADAS ▒▒</h3>
+
+​<!-- Ícones de Ferramentas -->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
+</a>
+
+​<!-- Rodapé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
+<p align="center">
+<code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
+</p>
+
+​</div>
