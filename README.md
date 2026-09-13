@@ -21,46 +21,34 @@
 
 </div>
 
-> *"There is no spoon."*
-
-Bem-vindo à realidade. Sou um estudante navegando pelo sistema, atualmente decodificando a ciência da computação através do rigoroso treinamento do **CS50x de Harvard**. Meu foco é dominar as regras estruturais da programação — desde o gerenciamento de memória em baixo nível até a construção de servidores web. A cada linha de código, aprendo a manipular a Matrix para resolver problemas reais.
+```diff
++ "There is no spoon."
++
++ Bem-vindo à realidade. 
++
++ Sou um estudante navegando pelo sistema, atualmente decodificando
++ a ciência da computação através do rigoroso treinamento do CS50x 
++ de Harvard. 
++
++ Meu foco é dominar as regras estruturais da programação — desde o 
++ gerenciamento de memória em baixo nível até a construção de 
++ servidores web. A cada linha de código, aprendo a manipular a 
++ Matrix para resolver problemas reais.
 
 <div align="center">
-
-<br>
-
----
-
-### ▒▒ TECH STACK (CS50x) ▒▒
-
-<br>
-
-<!-- Ícones de Habilidades (Linguagens do CS50) -->
+​▒▒ TECH STACK (CS50x) ▒▒
+​<!-- Ícones de Habilidades (Linguagens do CS50) idênticas à sua imagem -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
+<img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
 </a>
-
-<br><br>
-
----
-
-### ▒▒ FERRAMENTAS UTILIZADAS ▒▒
-
-<br>
-
-<!-- Ícones de Ferramentas -->
+​▒▒ FERRAMENTAS UTILIZADAS ▒▒
+​<!-- Ícones de Ferramentas -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
 </a>
-
-<br><br>
-
----
-
-<!-- Rodapé Elegante -->
+​<!-- Rodapé Elegante -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
 <p align="center">
-  <code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
+<code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
 </p>
-
-</div>
+​</div>
