@@ -91,12 +91,12 @@ Aqui ficarão armazenados os principais marcos da minha evolução:
   <tr>
     <td>
       <a href="https://github.com">
-        <img src="https://vercel.co" alt="CS50x Labs" />
+        <img src="https://vercel.app" alt="CS50x Labs" />
       </a>
     </td>
     <td>
       <a href="https://github.com">
-        <img src="https://vercel.co" alt="Cyber Portfolio" />
+        <img src="https://vercel.app" alt="Cyber Portfolio" />
       </a>
     </td>
   </tr>
