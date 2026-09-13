@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/[SEU-LINKEDIN])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/[https://www.linkedin.com/in/laraikeda?utm_source=share_via&utm_content=profile&utm_medium=member_android])
 
 <br>
 
@@ -24,7 +24,7 @@
 ```diff
 + const Developer = {
 + 
-+   name: "[SEU NOME]",
++   name: "[Lara Ikeda]",
 + 
 +   role: "Student in CS50x (Harvard)",
 + 
