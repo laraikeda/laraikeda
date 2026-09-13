@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Principal (Preto e Verde Matrix) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
 
 <!-- Typing Animation (Fonte de Terminal, Preto e Verde) -->
 <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/[https://www.linkedin.com/in/laraikeda?utm_source=share_via&utm_content=profile&utm_medium=member_android])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/[SEU-LINKEDIN])
 
 <br>
 
@@ -24,7 +24,7 @@
 ```diff
 + const Developer = {
 + 
-+   name: "[Lara Ikeda]",
++   name: "[SEU NOME]",
 + 
 +   role: "Student in CS50x (Harvard)",
 + 
