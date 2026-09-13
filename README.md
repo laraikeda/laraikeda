@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Banner Principal (Preto e Verde Matrix) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
+<!-- Banner Principal (Chuva Digital Matrix) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The.Matrix.glmatrix.2.png/1200px-The.Matrix.glmatrix.2.png" width="100%" height="250" style="object-fit: cover;" alt="Matrix Digital Rain" />
+
+<br><br>
 
 <!-- Typing Animation (Fonte de Terminal, Preto e Verde) -->
 <a href="https://git.io/typing-svg">
