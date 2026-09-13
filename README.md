@@ -1,4 +1,4 @@
-<div align="center">
+O meu está assim: <div align="center">
 
 <!-- Banner Principal (Verde Matrix) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://www.linkedin.com/in/laraikeda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/[https://www.linkedin.com/in/laraikeda?utm_source=share_via&utm_content=profile&utm_medium=member_android])
 
 <br>
 
@@ -21,10 +21,10 @@
 
 </div>
 
-<p align="left">
-<pre style="background-color: #000000; color: #00FF41; font-family: monospace; padding: 16px; border-radius: 6px; border: 1px solid rgba(0, 255, 65, 0.3);"><code>+ const Developer = {
+```diff
++ const Developer = {
 + 
-+   name: "Lara Ikeda",
++   name: "[Lara Ikeda]",
 + 
 +   role: "Student in CS50x (Harvard)",
 + 
@@ -46,8 +46,8 @@
 + 
 +   quote: "There is no spoon."
 + 
-+ };</code></pre>
-</p>
++ };
+```
 
 <div align="center">
 
