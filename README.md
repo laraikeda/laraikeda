@@ -139,7 +139,7 @@ Aqui ficarão armazenados os principais marcos da minha evolução:
 Conecte-se ao meu terminal para trocar ideias sobre tecnologia e estudos:
 
 <div align="left">
-  <a href="https:// https://www.linkedin.com/in/laraikeda?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://www.linkedin.com/in/laraikeda?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </div>
