@@ -23,6 +23,10 @@
 + const Developer = {
 + 
 +   name: "[Lara Ikeda]",
++
++   age: "20",
++
++   country of birth: "Japan",
 + 
 +   role: "Student in CS50x (Harvard)",
 +         "Atuarial Science Student",
