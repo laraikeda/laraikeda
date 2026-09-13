@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Banner Principal (Verde Matrix) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
+<!-- Banner Principal (Preto e Verde Matrix) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
 
-<!-- Typing Animation (Fonte de Terminal, Verde) -->
+<!-- Typing Animation (Fonte de Terminal, Preto e Verde) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Wake+up...;The+Matrix+has+you...;Studying+Computer+Science+(CS50x)...;Follow+the+white+rabbit." alt="Typing SVG" />
 </a>
@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/[https://www.linkedin.com/in/laraikeda?utm_source=share_via&utm_content=profile&utm_medium=member_android])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/[SEU-LINKEDIN])
 
 <br>
 
@@ -22,39 +22,31 @@
 </div>
 
 ```diff
-const Developer = {
-
-  name: "Lara Ikeda",
-
-  role: "Student in CS50x (Harvard)",
-
-  location: "The Matrix 💻",
-
-  focus: [
-    "Computer Science",
-    "Low-level Memory Management",
-    "Algorithms & Data Structures",
-    "Web Development"
-  ],
-
-  currentlyLearning: [
-    "C",
-    "Python",
-    "SQL / Databases",
-    "Flask Framework"
-  ],
-
-  quote: "There is no spoon."
-
-};
-
++ const Developer = {
++ 
++   name: "[SEU NOME]",
++ 
++   role: "Student in CS50x (Harvard)",
++ 
++   location: "The Matrix 💻",
++ 
++   focus: [
++     "Computer Science",
++     "Low-level Memory Management",
++     "Algorithms & Data Structures",
++     "Web Development"
++   ],
++ 
++   currentlyLearning: [
++     "C",
++     "Python",
++     "SQL / Databases",
++     "Flask Framework"
++   ],
++ 
++   quote: "There is no spoon."
++ 
 + };
-</div>
-
-};</code></pre>
-</p>
-
-};
 ```
 
 <div align="center">
