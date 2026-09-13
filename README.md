@@ -67,7 +67,8 @@
   <img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
 </a>
 
-<br><br>
+<br>
+
 
 ###    Programming Tools 
 
