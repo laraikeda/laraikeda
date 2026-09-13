@@ -15,8 +15,6 @@
 
 <br>
 
----
-
 ###    SOBRE MIM 
 
 </div>
@@ -53,8 +51,6 @@
 
 <br>
 
----
-
 ###    TECH STACK (CS50x) 
 
 <br>
@@ -66,8 +62,6 @@
 
 <br><br>
 
----
-
 ###    FERRAMENTAS UTILIZADAS 
 
 <br>
@@ -78,8 +72,6 @@
 </a>
 
 <br><br>
-
----
 
 ​<!-- Rodapé -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
