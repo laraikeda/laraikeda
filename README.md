@@ -25,7 +25,7 @@
 
 <br />
 
-## ⚡ :: SYSTEM_OVERVIEW (Sobre Mim)
+## 👩‍💻 :: SYSTEM_OVERVIEW (Sobre Mim)
 
 ```prolog
 [ID] Lara Ikeda
