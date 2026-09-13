@@ -47,3 +47,21 @@ const Developer = {
   quote: "There is no spoon."
 
 };
+
+<div align="center">
+​▒▒ TECH STACK (CS50x) ▒▒
+​<!-- Ícones de Habilidades -->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
+</a>
+​▒▒ FERRAMENTAS UTILIZADAS ▒▒
+​<!-- Ícones de Ferramentas -->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
+</a>
+​<!-- Rodapé Elegante -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
+<p align="center">
+<code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
+</p>
+​</div>
