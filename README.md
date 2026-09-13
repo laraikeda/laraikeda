@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Banner Principal (Verde Matrix) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF41&bg_color=000000)" width="100%" />
 
 <!-- Typing Animation (Fonte de Terminal, Verde) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Wake+up...;The+Matrix+has+you...;Studying+Computer+Science+(CS50x)...;Follow+the+white+rabbit." alt="Typing SVG" />
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+  <img src="[https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Wake+up...;The+Matrix+has+you...;Studying+Computer+Science+(CS50x)...;Follow+the+white+rabbit](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Wake+up...;The+Matrix+has+you...;Studying+Computer+Science+(CS50x)...;Follow+the+white+rabbit)." alt="Typing SVG" />
 </a>
 
 <br><br>
 
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/[https://www.linkedin.com/in/laraikeda?utm_source=share_via&utm_content=profile&utm_medium=member_android])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://www.linkedin.com/in/laraikeda)
 
 <br>
 
@@ -21,33 +21,33 @@
 
 </div>
 
-```diff
-+ const Developer = {
-+ 
-+   name: "[Lara Ikeda]",
-+ 
-+   role: "Student in CS50x (Harvard)",
-+ 
-+   location: "The Matrix 💻",
-+ 
-+   focus: [
-+     "Computer Science",
-+     "Low-level Memory Management",
-+     "Algorithms & Data Structures",
-+     "Web Development"
-+   ],
-+ 
-+   currentlyLearning: [
-+     "C",
-+     "Python",
-+     "SQL / Databases",
-+     "Flask Framework"
-+   ],
-+ 
-+   quote: "There is no spoon."
-+ 
-+ };
-```
+<p align="left">
+  <pre style="background-color: #000000; color: #00FF41; font-family: monospace; padding: 16px; border-radius: 6px; border: 1px solid rgba(0, 255, 65, 0.2);"><code>const Developer = {
+
+  name: "Lara Ikeda",
+
+  role: "Student in CS50x (Harvard)",
+
+  location: "The Matrix 💻",
+
+  focus: [
+    "Computer Science",
+    "Low-level Memory Management",
+    "Algorithms & Data Structures",
+    "Web Development"
+  ],
+
+  currentlyLearning: [
+    "C",
+    "Python",
+    "SQL / Databases",
+    "Flask Framework"
+  ],
+
+  quote: "There is no spoon."
+
+};</code></pre>
+</p>
 
 <div align="center">
 
@@ -60,8 +60,8 @@
 <br>
 
 <!-- Ícones de Habilidades (Linguagens do CS50) -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark" alt="Linguagens CS50x" />
+<a href="[https://skillicons.dev](https://skillicons.dev)">
+  <img src="[https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark](https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask&theme=dark)" alt="Linguagens CS50x" />
 </a>
 
 <br><br>
@@ -73,8 +73,8 @@
 <br>
 
 <!-- Ícones de Ferramentas -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
+<a href="[https://skillicons.dev](https://skillicons.dev)">
+  <img src="[https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark)" alt="Ferramentas" />
 </a>
 
 <br><br>
@@ -82,7 +82,7 @@
 ---
 
 <!-- Rodapé Elegante -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=000000)" width="100%" />
 <p align="center">
   <code>LOGOUT SUCCESSFUL // SYSTEM OFFLINE</code>
 </p>
