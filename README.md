@@ -1,46 +1,45 @@
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
+  <style>
+    .matrix-text {
+      font-family: 'Consolas', 'Fira Code', 'Courier New', Monaco, monospace;
+      font-size: 28px;
+      fill: #00FF00;
+    }
+  </style>
 
-<!-- Banner Principal (Preto e Verde Matrix) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF00&bg_color=000000" width="100%" />
+  <defs>
+    <!-- Linha 1: Digita no início -->
+    <clipPath id="clip1">
+      <rect x="0" y="0" height="50">
+        <animate attributeName="width" values="0;250;250;250;250" keyTimes="0;0.2;0.8;0.9;1" dur="10s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
 
-<img src="https://raw.githubusercontent.com/laraikeda/laraikeda/main/matrix_quotes.svg" alt="Matrix Quotes">
+    <!-- Linha 2: Digita após a linha 1 -->
+    <clipPath id="clip2">
+      <rect x="0" y="0" height="50">
+        <animate attributeName="width" values="0;0;380;380;380" keyTimes="0;0.25;0.45;0.9;1" dur="10s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
 
-<br><br>
+    <!-- Linha 3: Digita após a linha 2 -->
+    <clipPath id="clip3">
+      <rect x="0" y="0" height="50">
+        <animate attributeName="width" values="0;0;0;450;450" keyTimes="0;0.5;0.7;0.9;1" dur="10s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
 
-<!-- Typing Animation (Fonte de Terminal, Preto e Verde) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+I'm+Lara...;Welcome+to+my+portfolio!" alt="Typing SVG" />
-</a>
+    <!-- Linha 4: Digita por último e todas reiniciam juntas -->
+    <clipPath id="clip4">
+      <rect x="0" y="0" height="50">
+        <animate attributeName="width" values="0;0;0;0;250" keyTimes="0;0.75;0.85;0.9;1" dur="10s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
 
-<br><br>
-
-###    About Me
-
-</div>
-
-![About Me](./about_me.svg)
-
-<div align="center">
-
-<br>
-
-###    Skills
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask,linux,git,github,vscode,ai&theme=light)](https://skillicons.dev)
-
-<br>
-
-​<!-- Rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&bg_color=00FF00" width="100%" />
-
-<br>
-
-​<!-- Animação no Rodapé -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=LOGOUT+SUCCESSFUL+%2F%2F+SYSTEM+OFFLINE" alt="Typing SVG Rodapé" />
-
-</a>
-
-​</div>
+  <!-- Frases fixas uma embaixo da outra, reveladas em sequência da esquerda para a direita -->
+  <text x="40" y="60" class="matrix-text" clip-path="url(#clip1)">&gt; Wake up...</text>
+  <text x="40" y="110" class="matrix-text" clip-path="url(#clip2)">&gt; The Matrix has you...</text>
+  <text x="40" y="160" class="matrix-text" clip-path="url(#clip3)">&gt; Follow the white rabbit.</text>
+  <text x="40" y="230" class="matrix-text" clip-path="url(#clip4)">&gt; Knock, knock.</text>
+</svg>
