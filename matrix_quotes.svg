@@ -5,40 +5,19 @@
       font-size: 28px;
       fill: #00FF00;
     }
+    
+    .line1 { opacity: 0; animation: fadeIn 0.5s forwards 0.5s; }
+    .line2 { opacity: 0; animation: fadeIn 0.5s forwards 2.5s; }
+    .line3 { opacity: 0; animation: fadeIn 0.5s forwards 4.5s; }
+    .line4 { opacity: 0; animation: fadeIn 0.5s forwards 6.5s; }
+
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
   </style>
 
-  <defs>
-    <!-- Linha 1: Wake up... (~250px) -->
-    <clipPath id="clip1">
-      <rect x="0" y="0" height="50">
-        <animate attributeName="width" values="0;280;280;280;280" keyTimes="0;0.2;0.8;0.9;1" dur="10s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
-
-    <!-- Linha 2: The Matrix has you... (~400px) -->
-    <clipPath id="clip2">
-      <rect x="0" y="0" height="50">
-        <animate attributeName="width" values="0;0;450;450;450" keyTimes="0;0.25;0.45;0.9;1" dur="10s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
-
-    <!-- Linha 3: Follow the white rabbit. (~500px) -->
-    <clipPath id="clip3">
-      <rect x="0" y="0" height="50">
-        <animate attributeName="width" values="0;0;0;550;550" keyTimes="0;0.5;0.7;0.9;1" dur="10s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
-
-    <!-- Linha 4: Knock, knock. (~300px) -->
-    <clipPath id="clip4">
-      <rect x="0" y="0" height="50">
-        <animate attributeName="width" values="0;0;0;0;350" keyTimes="0;0.75;0.85;0.9;1" dur="10s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
-  </defs>
-
-  <text x="40" y="60" class="matrix-text" clip-path="url(#clip1)">&gt; Wake up...</text>
-  <text x="40" y="110" class="matrix-text" clip-path="url(#clip2)">&gt; The Matrix has you...</text>
-  <text x="40" y="160" class="matrix-text" clip-path="url(#clip3)">&gt; Follow the white rabbit.</text>
-  <text x="40" y="230" class="matrix-text" clip-path="url(#clip4)">&gt; Knock, knock.</text>
+  <text x="40" y="60" class="matrix-text line1">> Wake up...</text>
+  <text x="40" y="110" class="matrix-text line2">> The Matrix has you...</text>
+  <text x="40" y="160" class="matrix-text line3">> Follow the white rabbit.</text>
+  <text x="40" y="230" class="matrix-text line4">> Knock, knock.</text>
 </svg>
