@@ -33,7 +33,7 @@
 <br>
 
 ​<!-- Rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&bg_color=00FF41" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&bg_color=00FF00" width="100%" />
 
 <br>
 
