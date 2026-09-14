@@ -60,7 +60,7 @@
 
 <br>
 
-###    Programming Lenguage & Tools (CS50x) 
+###    Programming Lenguage & Tools 
 
 <br>
 
