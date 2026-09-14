@@ -2,7 +2,7 @@
   <style>
     .matrix-text {
       font-family: 'Consolas', 'Fira Code', 'Courier New', Monaco, monospace;
-      font-size: 22px; /* Fonte aumentada de 15px para 22px */
+      font-size: 50px;
       fill: #00FF00;
       white-space: pre;
     }
