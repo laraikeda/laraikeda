@@ -1,28 +1,6 @@
-<div align="center">
-  <svg width="450" height="60" viewBox="0 0 450 60">
-    <style>
-      .matrix-system {
-        font-family: 'Courier New', Courier, monospace;
-        font-size: 36px;
-        font-weight: bold;
-        fill: #00FF00;
-        filter: drop-shadow(0px 0px 5px #00FF00);
-        stroke: #00FF00;
-        stroke-width: 0.8;
-        stroke-dasharray: 400;
-        stroke-dashoffset: 400;
-        animation: matrixSlide 2s cubic-bezier(0.1, 0.9, 0.2, 1) forwards;
-      }
-
-      @keyframes matrixSlide {
-        to {
-          stroke-dashoffset: 0;
-        }
-      }
-    </style>
-    <text x="50%" y="42" text-anchor="middle" class="matrix-system">System ready</text>
-  </svg>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=36&duration=2000&pause=99999&color=00FF00&center=true&vCenter=true&width=400&lines=System+ready" alt="System ready" />
+</p>
 
 <br>
 
