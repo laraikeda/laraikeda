@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&width=450&lines=System+ready" alt="System ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&width=450&lines=SYSTEM+READY" alt="SYSTEM READY" />
 </div>
 
 <br>
