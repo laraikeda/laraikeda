@@ -18,7 +18,7 @@
 
 </div>
 
-[Ver arquivo about_me.svg](https://github.com/laraikeda/laraikeda/blob/main/about_me.svg)
+![About Me](./about_me.svg)
 
 <div align="center">
 
