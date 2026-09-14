@@ -18,6 +18,7 @@
 
 </div>
 
+diff,,,
 
   const Developer = {
   
@@ -53,7 +54,7 @@
     quote: "There is no spoon."
   
   };
-
+,,,
 
 <div align="center">
 
