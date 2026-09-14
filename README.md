@@ -43,7 +43,7 @@
 
 $ echo "apiToken=YOUR_API_TOKEN" >> src/main/resources/application.properties 
 $ mvn package
-$ java -jar target/*.jar -XX:MaxMetaspaceSize=64m -Xmx256m -Djava.awt.headless=true
+$ java -jar target/*.jar-XX:MaxMetaspaceSize=64m -Xmx256m-Djava.awt.headless=true
 
 </a>
 
