@@ -4,15 +4,23 @@
       font-family: 'Consolas', 'Fira Code', 'Courier New', Monaco, monospace;
       font-size: 28px;
       fill: #00FF00;
+      opacity: 0;
     }
     
-    .line1 { opacity: 0; animation: fadeIn 0.5s forwards 0.5s; }
-    .line2 { opacity: 0; animation: fadeIn 0.5s forwards 2.5s; }
-    .line3 { opacity: 0; animation: fadeIn 0.5s forwards 4.5s; }
-    .line4 { opacity: 0; animation: fadeIn 0.5s forwards 6.5s; }
+    .line1 { animation: slideIn 0.8s ease-out forwards 0.5s; }
+    .line2 { animation: slideIn 0.8s ease-out forwards 2.5s; }
+    .line3 { animation: slideIn 0.8s ease-out forwards 4.5s; }
+    .line4 { animation: slideIn 0.8s ease-out forwards 6.5s; }
 
-    @keyframes fadeIn {
-      to { opacity: 1; }
+    @keyframes slideIn {
+      0% {
+        opacity: 0;
+        transform: translateX(100px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateX(0);
+      }
     }
   </style>
 
