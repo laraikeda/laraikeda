@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=1000&pause=99999&color=FF0055&center=true&vCenter=true&width=200&lines=Skills" alt="Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=1000&pause=99999&color=FF0000&center=true&vCenter=true&width=200&lines=Skills" alt="Skills" />
 </div>
 
 <br>
