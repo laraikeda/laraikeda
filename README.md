@@ -41,10 +41,6 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=LOGOUT+SUCCESSFUL+%2F%2F+SYSTEM+OFFLINE" alt="Typing SVG Rodapé" />
 
-$ echo "apiToken=YOUR_API_TOKEN" >> src/main/resources/application.properties 
-$ mvn package
-$ java -jar target/*.jar-XX:MaxMetaspaceSize=64m -Xmx256m-Djava.awt.headless=true
-
 </a>
 
 ​</div>
