@@ -12,7 +12,7 @@
 
 <br>
 
-### **// Skills //**
+// Skills //
 
 <br>
 
