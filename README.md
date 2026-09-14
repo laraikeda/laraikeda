@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1000&pause=99999&color=00FF00&center=true&vCenter=true&width=300&lines=%2F%2F+Skills+%2F%2F" alt="Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1000&pause=99999&color=00FF00&center=true&vCenter=true&width=300&lines=%2F%2F+Skills+%2F%2F" alt= Skills />
 </div>
 
 <br>
@@ -23,5 +23,5 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+Free+your+mind..." alt="Free your mind..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=99999&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+Free+your+mind..." alt="Free your mind..." />
 </div>
