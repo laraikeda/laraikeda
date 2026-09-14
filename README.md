@@ -12,7 +12,9 @@
 
 <br>
 
-<div align="center"><h2><code> Skills </code</h2></div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1000&pause=99999&color=00FF00&center=true&vCenter=true&width=300&lines=%2F%2F+Skills+%2F%2F" alt="Skills" />
+</div>
 
 <br>
 
