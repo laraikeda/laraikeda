@@ -6,39 +6,71 @@
       fill: #00FF00;
       white-space: pre;
     }
+    
+    .l1  { opacity: 0; animation: fadeIn 0.4s forwards 0.5s; }
+    .l2  { opacity: 0; animation: fadeIn 0.4s forwards 1.2s; }
+    .l3  { opacity: 0; animation: fadeIn 0.4s forwards 1.9s; }
+    .l4  { opacity: 0; animation: fadeIn 0.4s forwards 2.6s; }
+    .l5  { opacity: 0; animation: fadeIn 0.4s forwards 3.3s; }
+    .l6  { opacity: 0; animation: fadeIn 0.4s forwards 4.0s; }
+    .l7  { opacity: 0; animation: fadeIn 0.4s forwards 4.7s; }
+    .l8  { opacity: 0; animation: fadeIn 0.4s forwards 5.4s; }
+    .l9  { opacity: 0; animation: fadeIn 0.4s forwards 6.1s; }
+    .l10 { opacity: 0; animation: fadeIn 0.4s forwards 6.8s; }
+    .l11 { opacity: 0; animation: fadeIn 0.4s forwards 7.5s; }
+    .l12 { opacity: 0; animation: fadeIn 0.4s forwards 8.2s; }
+    .l13 { opacity: 0; animation: fadeIn 0.4s forwards 8.9s; }
+    .l14 { opacity: 0; animation: fadeIn 0.4s forwards 9.6s; }
+    .l15 { opacity: 0; animation: fadeIn 0.4s forwards 10.3s; }
+    .l16 { opacity: 0; animation: fadeIn 0.4s forwards 11.0s; }
+    .l17 { opacity: 0; animation: fadeIn 0.4s forwards 11.7s; }
+    .l18 { opacity: 0; animation: fadeIn 0.4s forwards 12.4s; }
+    .l19 { opacity: 0; animation: fadeIn 0.4s forwards 13.1s; }
+    .l20 { opacity: 0; animation: fadeIn 0.4s forwards 13.8s; }
+    .l21 { opacity: 0; animation: fadeIn 0.4s forwards 14.5s; }
+    .l22 { opacity: 0; animation: fadeIn 0.4s forwards 15.2s; }
+    .l23 { opacity: 0; animation: fadeIn 0.4s forwards 15.9s; }
+    .l24 { opacity: 0; animation: fadeIn 0.4s forwards 16.6s; }
+    .l25 { opacity: 0; animation: fadeIn 0.4s forwards 17.3s; }
+    .l26 { opacity: 0; animation: fadeIn 0.4s forwards 18.0s; }
+    .l27 { opacity: 0; animation: fadeIn 0.4s forwards 18.7s; }
+
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
   </style>
 
-  <text x="60" y="140" class="matrix-text">const Developer = {</text>
+  <text x="60" y="140" class="matrix-text l1">const Developer = {</text>
   
-  <text x="140" y="270" class="matrix-text">name: "Lara",</text>
-  <text x="140" y="400" class="matrix-text">age: "20",</text>
-  <text x="140" y="530" class="matrix-text">"place of birth": "Japan",</text>
-  <text x="140" y="660" class="matrix-text">nationality: "Brazilian",</text>
+  <text x="140" y="270" class="matrix-text l2">name: "Lara",</text>
+  <text x="140" y="400" class="matrix-text l3">age: "20",</text>
+  <text x="140" y="530" class="matrix-text l4">"place of birth": "Japan",</text>
+  <text x="140" y="660" class="matrix-text l5">nationality: "Brazilian",</text>
   
-  <text x="140" y="830" class="matrix-text">role: [</text>
-  <text x="240" y="960" class="matrix-text">"Student in CS50x (Harvard)",</text>
-  <text x="240" y="1090" class="matrix-text">"Atuarial Science Student"</text>
-  <text x="140" y="1220" class="matrix-text">],</text>
+  <text x="140" y="830" class="matrix-text l6">role: [</text>
+  <text x="240" y="960" class="matrix-text l7">"Student in CS50x (Harvard)",</text>
+  <text x="240" y="1090" class="matrix-text l8">"Atuarial Science Student"</text>
+  <text x="140" y="1220" class="matrix-text l9">],</text>
   
-  <text x="140" y="1390" class="matrix-text">location: "The Matrix 💻",</text>
+  <text x="140" y="1390" class="matrix-text l10">location: "The Matrix 💻",</text>
   
-  <text x="140" y="1560" class="matrix-text">focus: [</text>
-  <text x="240" y="1690" class="matrix-text">"Data Analysis",</text>
-  <text x="240" y="1820" class="matrix-text">"Probability &amp; Statistics",</text>
-  <text x="240" y="1950" class="matrix-text">"Computer Science",</text>
-  <text x="240" y="2080" class="matrix-text">"Low-level Memory Management",</text>
-  <text x="240" y="2210" class="matrix-text">"Algorithms &amp; Data Structures",</text>
-  <text x="240" y="2340" class="matrix-text">"Web Development"</text>
-  <text x="140" y="2470" class="matrix-text">],</text>
+  <text x="140" y="1560" class="matrix-text l11">focus: [</text>
+  <text x="240" y="1690" class="matrix-text l12">"Data Analysis",</text>
+  <text x="240" y="1820" class="matrix-text l13">"Probability &amp; Statistics",</text>
+  <text x="240" y="1950" class="matrix-text l14">"Computer Science",</text>
+  <text x="240" y="2080" class="matrix-text l15">"Low-level Memory Management",</text>
+  <text x="240" y="2210" class="matrix-text l16">"Algorithms &amp; Data Structures",</text>
+  <text x="240" y="2340" class="matrix-text l17">"Web Development"</text>
+  <text x="140" y="2470" class="matrix-text l18">],</text>
   
-  <text x="140" y="2640" class="matrix-text">currentlyLearning: [</text>
-  <text x="240" y="2770" class="matrix-text">"C",</text>
-  <text x="240" y="2900" class="matrix-text">"Python",</text>
-  <text x="240" y="3030" class="matrix-text">"SQL / Databases",</text>
-  <text x="240" y="3160" class="matrix-text">"Flask Framework"</text>
-  <text x="140" y="3290" class="matrix-text">],</text>
+  <text x="140" y="2640" class="matrix-text l19">currentlyLearning: [</text>
+  <text x="240" y="2770" class="matrix-text l20">"C",</text>
+  <text x="240" y="2900" class="matrix-text l21">"Python",</text>
+  <text x="240" y="3030" class="matrix-text l22">"SQL / Databases",</text>
+  <text x="240" y="3160" class="matrix-text l23">"Flask Framework"</text>
+  <text x="140" y="3290" class="matrix-text l24">],</text>
   
-  <text x="140" y="3460" class="matrix-text">quote: "There is no spoon."</text>
+  <text x="140" y="3460" class="matrix-text l25">quote: "There is no spoon."</text>
   
-  <text x="60" y="3590" class="matrix-text">};</text>
+  <text x="60" y="3590" class="matrix-text l26">};</text>
 </svg>
