@@ -64,18 +64,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,sqlite,htmlcss,js,flask,linux,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
-
-<br>
-
-###    Programming Tools 
-
-<br>
-
-<!-- Ícones de Ferramentas -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&perline=3" alt="Ferramentas" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=c,python,sqlite,htmlcss,js,flask,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 <br>
 
