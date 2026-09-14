@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&color=00FF00&center=false&vCenter=true&width=500&lines=%3E+System+ready+Lara;%C2%A0" alt="System ready Lara" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&color=00FF00&center=false&vCenter=true&width=500&lines=%3E+System+ready+Lara;%C2%A0" alt="System ready Lara;" />
 </p>
 
 <br>
