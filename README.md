@@ -4,6 +4,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=180&section=header&text=WELCOME%20TO%20THE%20MATRIX&fontSize=32&fontColor=00FF00&animation=fadeIn&fontAlignY=38" alt="Matrix Banner" />
+</div>
+
+<br>
+
 <img src="https://raw.githubusercontent.com/laraikeda/laraikeda/main/matrix_quotes.svg" alt="Matrix Quotes">
 
 <br>
