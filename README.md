@@ -15,7 +15,7 @@
 
 <br>
 
-###    About Me 
+###    About Me
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <br>
 
-###    Skills 
+###    Skills
 
 <br>
 
