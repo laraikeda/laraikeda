@@ -64,7 +64,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask,linux,git,github,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask,linux,git,github,vscode&theme=light)](https://skillicons.dev)
 
 <br>
 
