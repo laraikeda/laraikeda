@@ -1,6 +1,6 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=99999&color=00FF00&center=false&vCenter=true&width=500&lines=%3E+System+ready+Lara" alt="System ready Lara" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1500&pause=2000&color=00FF00&center=true&vCenter=true&width=450&lines=System+ready" alt="System ready" />
+</div>
 
 <br>
 
