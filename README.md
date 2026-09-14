@@ -12,7 +12,7 @@
 
 <br>
 
-   Skills 
+<div align="center"><h2><code> Skills </code</h2></div>
 
 <br>
 
