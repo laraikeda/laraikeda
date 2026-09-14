@@ -4,28 +4,43 @@
       font-family: 'Consolas', 'Fira Code', 'Courier New', Monaco, monospace;
       font-size: 28px;
       fill: #00FF00;
-      opacity: 0;
+      white-space: pre;
+      overflow: hidden;
+      border-right: 2px solid #00FF00;
+      display: inline-block;
     }
     
-    .line1 { animation: slideIn 0.8s ease-out forwards 0.5s; }
-    .line2 { animation: slideIn 0.8s ease-out forwards 2.5s; }
-    .line3 { animation: slideIn 0.8s ease-out forwards 4.5s; }
-    .line4 { animation: slideIn 0.8s ease-out forwards 6.5s; }
+    /* Cada linha revela o texto progressivamente da esquerda para a direita */
+    .line1 {
+      width: 14ch;
+      animation: typing 1.5s steps(14, end) forwards 0.5s, blink 0.75s step-end infinite;
+    }
+    .line2 {
+      width: 22ch;
+      animation: typing 2s steps(22, end) forwards 2.5s, blink 0.75s step-end infinite;
+    }
+    .line3 {
+      width: 25ch;
+      animation: typing 2.5s steps(25, end) forwards 5s, blink 0.75s step-end infinite;
+    }
+    .line4 {
+      width: 14ch;
+      animation: typing 1.5s steps(14, end) forwards 8s, blink 0.75s step-end infinite;
+    }
 
-    @keyframes slideIn {
-      0% {
-        opacity: 0;
-        transform: translateX(100px);
-      }
-      100% {
-        opacity: 1;
-        transform: translateX(0);
-      }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: var(--final-width, 100%); }
+    }
+
+    @keyframes blink {
+      from, to { border-color: transparent; }
+      50% { border-color: #00FF00; }
     }
   </style>
 
-  <text x="40" y="60" class="matrix-text line1">> Wake up...</text>
-  <text x="40" y="110" class="matrix-text line2">> The Matrix has you...</text>
-  <text x="40" y="160" class="matrix-text line3">> Follow the white rabbit.</text>
-  <text x="40" y="230" class="matrix-text line4">> Knock, knock.</text>
+  <text x="40" y="60" class="matrix-text line1" style="--final-width: 14ch;">> Wake up...</text>
+  <text x="40" y="110" class="matrix-text line2" style="--final-width: 22ch;">> The Matrix has you...</text>
+  <text x="40" y="160" class="matrix-text line3" style="--final-width: 25ch;">> Follow the white rabbit.</text>
+  <text x="40" y="230" class="matrix-text line4" style="--final-width: 14ch;">> Knock, knock.</text>
 </svg>
