@@ -12,4 +12,8 @@
 
 <br>
 
+<p align="left">
+  <span style="font-family: monospace; font-size: 28px; color: #00FF00; font-weight: bold;">// Skills //</span>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,git,github,flask,linux,ai&theme=light)](https://skillicons.dev)
