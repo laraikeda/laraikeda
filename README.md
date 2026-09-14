@@ -60,7 +60,7 @@
 
 <br>
 
-###    Programming Lenguage & Tools 
+###    Skills 
 
 <br>
 
