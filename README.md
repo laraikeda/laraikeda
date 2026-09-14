@@ -22,36 +22,36 @@ diff,,,
 
   const Developer = {
   
-    name: "Lara",
- 
-    age: "20",
- 
-    place of birth: "Japan",
- 
-    nationality: "Brazilian",
-  
-    role: "Student in CS50x (Harvard)",
-          "Atuarial Science Student",
- 
-    location: "The Matrix 💻",
-  
-    focus: [
-      "Data Analisys"
-      "Probability & Statistics"
-      "Computer Science",
-      "Low-level Memory Management",
-      "Algorithms & Data Structures",
-      "Web Development"
-    ],
-  
-    currentlyLearning: [
-      "C",
-      "Python",
-      "SQL / Databases",
-      "Flask Framework"
-    ],
-  
-    quote: "There is no spoon."
++    name: "Lara",
++ 
++    age: "20",
++ 
++    place of birth: "Japan",
++ 
++    nationality: "Brazilian",
++  
++    role: "Student in CS50x (Harvard)",
++          "Atuarial Science Student",
++ 
++    location: "The Matrix 💻",
++  
++    focus: [
++      "Data Analisys"
++      "Probability & Statistics"
++      "Computer Science",
++      "Low-level Memory Management",
++      "Algorithms & Data Structures",
++      "Web Development"
++    ],
++  
++    currentlyLearning: [
++      "C",
++      "Python",
++      "SQL / Databases",
++      "Flask Framework"
++    ],
++  
++    quote: "There is no spoon."
   
   };
 ,,,
