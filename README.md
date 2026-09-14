@@ -15,9 +15,9 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=99999&color=FF0055&center=true&vCenter=true&width=350&lines=%3E+Red+Pill" alt="Red Pill" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=99999&color=FF0055&center=true&vCenter=true&width=350&lines=%3E+Red+Pill" alt="Red Pill" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=99999&color=0088FF&center=true&vCenter=true&width=350&lines=%3E+Blue+Pill" alt="Blue Pill" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=99999&color=0088FF&center=true&vCenter=true&width=350&lines=%3E+Blue+Pill" alt="Blue Pill" />
 </div>
 
 <br>
