@@ -16,8 +16,8 @@
     }
   </style>
 
-  <text x="40" y="60" class="matrix-text line1">> Wake up...</text>
-  <text x="40" y="110" class="matrix-text line2">> The Matrix has you...</text>
-  <text x="40" y="160" class="matrix-text line3">> Follow the white rabbit.</text>
-  <text x="40" y="230" class="matrix-text line4">> Knock, knock.</text>
+  <text x="40" y="60" class="matrix-text line1"> Wake up...</text>
+  <text x="40" y="110" class="matrix-text line2"> The Matrix has you...</text>
+  <text x="40" y="160" class="matrix-text line3"> Follow the white rabbit.</text>
+  <text x="40" y="230" class="matrix-text line4"> Knock, knock.</text>
 </svg>
