@@ -5,9 +5,11 @@
 
 <img src="https://raw.githubusercontent.com/laraikeda/laraikeda/main/matrix_quotes.svg" alt="Matrix Quotes">
 
+<br>
+
 <!-- Typing Animation (Fonte de Terminal, Preto e Verde) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+I'm+Lara...;The+Matrix+has+you...;Follow+the+white+rabbit." alt="Typing SVG" />
 </a>
 
 <br><br>
