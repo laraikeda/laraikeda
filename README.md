@@ -77,7 +77,7 @@
 
 <!-- Ícones de Ferramentas -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&perline=3" alt="Ferramentas" />
 </a>
 
 <br>
