@@ -60,11 +60,11 @@
 
 <br>
 
-###    Programming Lenguage (CS50x) 
+###    Programming Lenguage & Tools (CS50x) 
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,sqlite,htmlcss,js,flask,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,sqlite,html,css,js,flask,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 <br>
 
