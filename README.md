@@ -12,9 +12,7 @@
 
 <br>
 
-<p align="left">
-  <span style="font-family: monospace; font-size: 28; color: 00FF00; font-weight: bold;">// Skills //</span>
-</p>
+### **// Skills //**
 
 <br>
 
