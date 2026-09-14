@@ -10,9 +10,7 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF0000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/laraikeda)[![Instagram](https://img.shields.io/badge/Instagran-Connect-0561CB?style=for-the-badge&logo=instagram&logoColor=00FF00)](https://www.instagram.com/likedanascimento)
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF0000?style=for-the-badge&logo=LinkedIn&logoColor=00FF00)](https://www.linkedin.com/in/laraikeda)[![Instagram](https://img.shields.io/badge/Instagran-Connect-0561CB?style=for-the-badge&logo=instagram&logoColor=00FF00)](https://www.instagram.com/likedanascimento)
 
 <br>
 
