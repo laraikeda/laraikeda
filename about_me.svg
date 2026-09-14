@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 750" width="100%" height="100%">
+  <style>
+    .matrix-text {
+      font-family: 'Consolas', 'Fira Code', 'Courier New', Monaco, monospace;
+      font-size: 15px;
+      fill: #00FF00;
+      white-space: pre;
+    }
+  </style>
+
+  <text x="20" y="30" class="matrix-text">const Developer = {</text>
+  
+  <text x="40" y="55" class="matrix-text">name: "Lara",</text>
+  <text x="40" y="80" class="matrix-text">age: "20",</text>
+  <text x="40" y="105" class="matrix-text">"place of birth": "Japan",</text>
+  <text x="40" y="130" class="matrix-text">nationality: "Brazilian",</text>
+  
+  <text x="40" y="165" class="matrix-text">role: [</text>
+  <text x="60" y="190" class="matrix-text">"Student in CS50x (Harvard)",</text>
+  <text x="60" y="215" class="matrix-text">"Atuarial Science Student"</text>
+  <text x="40" y="240" class="matrix-text">],</text>
+  
+  <text x="40" y="275" class="matrix-text">location: "The Matrix 💻",</text>
+  
+  <text x="40" y="310" class="matrix-text">focus: [</text>
+  <text x="60" y="335" class="matrix-text">"Data Analysis",</text>
+  <text x="60" y="360" class="matrix-text">"Probability &amp; Statistics",</text>
+  <text x="60" y="385" class="matrix-text">"Computer Science",</text>
+  <text x="60" y="410" class="matrix-text">"Low-level Memory Management",</text>
+  <text x="60" y="435" class="matrix-text">"Algorithms &amp; Data Structures",</text>
+  <text x="60" y="460" class="matrix-text">"Web Development"</text>
+  <text x="40" y="485" class="matrix-text">],</text>
+  
+  <text x="40" y="520" class="matrix-text">currentlyLearning: [</text>
+  <text x="60" y="545" class="matrix-text">"C",</text>
+  <text x="60" y="570" class="matrix-text">"Python",</text>
+  <text x="60" y="595" class="matrix-text">"SQL / Databases",</text>
+  <text x="60" y="620" class="matrix-text">"Flask Framework"</text>
+  <text x="40" y="645" class="matrix-text">],</text>
+  
+  <text x="40" y="680" class="matrix-text">quote: "There is no spoon."</text>
+  
+  <text x="20" y="715" class="matrix-text">};</text>
+</svg>
