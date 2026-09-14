@@ -14,6 +14,58 @@
 
 <br>
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <style>
+    .pill-text {
+      font-family: 'Consolas', 'Fira Code', 'Courier New', Monaco, monospace;
+      font-size: 32px;
+      font-weight: bold;
+      opacity: 0;
+      animation: fadeIn 0.5s forwards 0.5s;
+    }
+    
+    .pill-red {
+      fill: #FF0055;
+      filter: drop-shadow(0px 0px 8px #FF0055);
+    }
+    
+    .pill-blue {
+      fill: #0088FF;
+      filter: drop-shadow(0px 0px 8px #0088FF);
+    }
+
+    .text-red {
+      fill: #FF0055;
+    }
+
+    .text-blue {
+      fill: #0088FF;
+    }
+
+    .line2 {
+      animation: fadeIn 0.5s forwards 1.5s;
+    }
+
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+  </style>
+
+  <!-- Pílula Vermelha -->
+  <g transform="translate(100, 70)">
+    <rect x="0" y="0" width="70" height="30" rx="15" class="pill-red pill-anim l1" />
+    <text x="90" y="24" class="pill-text text-red">> Red Pill</text>
+  </g>
+
+  <!-- Pílula Azul -->
+  <g transform="translate(450, 70)">
+    <rect x="0" y="0" width="70" height="30" rx="15" class="pill-blue pill-anim line2" />
+    <text x="90" y="24" class="pill-text text-blue line2">> Blue Pill</text>
+  </g>
+</svg>
+
+<br>
+
 <img src="./about_me.svg" alt="About Me" width="100%" />
 
 <br>
