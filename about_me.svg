@@ -1,44 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 3600" width="100%" height="100%">
   <style>
     .matrix-text {
       font-family: 'Consolas', 'Fira Code', 'Courier New', Monaco, monospace;
-      font-size: 28px;
+      font-size: 84px;
       fill: #00FF00;
       white-space: pre;
     }
   </style>
 
-  <text x="30" y="50" class="matrix-text">const Developer = {</text>
+  <text x="60" y="140" class="matrix-text">const Developer = {</text>
   
-  <text x="60" y="95" class="matrix-text">name: "Lara",</text>
-  <text x="60" y="140" class="matrix-text">age: "20",</text>
-  <text x="60" y="185" class="matrix-text">"place of birth": "Japan",</text>
-  <text x="60" y="230" class="matrix-text">nationality: "Brazilian",</text>
+  <text x="140" y="270" class="matrix-text">name: "Lara",</text>
+  <text x="140" y="400" class="matrix-text">age: "20",</text>
+  <text x="140" y="530" class="matrix-text">"place of birth": "Japan",</text>
+  <text x="140" y="660" class="matrix-text">nationality: "Brazilian",</text>
   
-  <text x="60" y="290" class="matrix-text">role: [</text>
-  <text x="100" y="335" class="matrix-text">"Student in CS50x (Harvard)",</text>
-  <text x="100" y="380" class="matrix-text">"Atuarial Science Student"</text>
-  <text x="60" y="425" class="matrix-text">],</text>
+  <text x="140" y="830" class="matrix-text">role: [</text>
+  <text x="240" y="960" class="matrix-text">"Student in CS50x (Harvard)",</text>
+  <text x="240" y="1090" class="matrix-text">"Atuarial Science Student"</text>
+  <text x="140" y="1220" class="matrix-text">],</text>
   
-  <text x="60" y="485" class="matrix-text">location: "The Matrix 💻",</text>
+  <text x="140" y="1390" class="matrix-text">location: "The Matrix 💻",</text>
   
-  <text x="60" y="545" class="matrix-text">focus: [</text>
-  <text x="100" y="590" class="matrix-text">"Data Analysis",</text>
-  <text x="100" y="635" class="matrix-text">"Probability &amp; Statistics",</text>
-  <text x="100" y="680" class="matrix-text">"Computer Science",</text>
-  <text x="100" y="725" class="matrix-text">"Low-level Memory Management",</text>
-  <text x="100" y="770" class="matrix-text">"Algorithms &amp; Data Structures",</text>
-  <text x="100" y="815" class="matrix-text">"Web Development"</text>
-  <text x="60" y="860" class="matrix-text">],</text>
+  <text x="140" y="1560" class="matrix-text">focus: [</text>
+  <text x="240" y="1690" class="matrix-text">"Data Analysis",</text>
+  <text x="240" y="1820" class="matrix-text">"Probability &amp; Statistics",</text>
+  <text x="240" y="1950" class="matrix-text">"Computer Science",</text>
+  <text x="240" y="2080" class="matrix-text">"Low-level Memory Management",</text>
+  <text x="240" y="2210" class="matrix-text">"Algorithms &amp; Data Structures",</text>
+  <text x="240" y="2340" class="matrix-text">"Web Development"</text>
+  <text x="140" y="2470" class="matrix-text">],</text>
   
-  <text x="60" y="920" class="matrix-text">currentlyLearning: [</text>
-  <text x="100" y="965" class="matrix-text">"C",</text>
-  <text x="100" y="1010" class="matrix-text">"Python",</text>
-  <text x="100" y="1055" class="matrix-text">"SQL / Databases",</text>
-  <text x="100" y="1100" class="matrix-text">"Flask Framework"</text>
-  <text x="60" y="1145" class="matrix-text">],</text>
+  <text x="140" y="2640" class="matrix-text">currentlyLearning: [</text>
+  <text x="240" y="2770" class="matrix-text">"C",</text>
+  <text x="240" y="2900" class="matrix-text">"Python",</text>
+  <text x="240" y="3030" class="matrix-text">"SQL / Databases",</text>
+  <text x="240" y="3160" class="matrix-text">"Flask Framework"</text>
+  <text x="140" y="3290" class="matrix-text">],</text>
   
-  <text x="60" y="1205" class="matrix-text">quote: "There is no spoon."</text>
+  <text x="140" y="3460" class="matrix-text">quote: "There is no spoon."</text>
   
-  <text x="30" y="1250" class="matrix-text">};</text>
+  <text x="60" y="3590" class="matrix-text">};</text>
 </svg>
