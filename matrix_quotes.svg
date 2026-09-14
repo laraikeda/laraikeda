@@ -8,27 +8,31 @@
   </style>
 
   <defs>
+    <!-- Linha 1: Wake up... (~250px) -->
     <clipPath id="clip1">
       <rect x="0" y="0" height="50">
-        <animate attributeName="width" values="0;250;250;250;250" keyTimes="0;0.2;0.8;0.9;1" dur="10s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;280;280;280;280" keyTimes="0;0.2;0.8;0.9;1" dur="10s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
+    <!-- Linha 2: The Matrix has you... (~400px) -->
     <clipPath id="clip2">
       <rect x="0" y="0" height="50">
-        <animate attributeName="width" values="0;0;380;380;380" keyTimes="0;0.25;0.45;0.9;1" dur="10s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;0;450;450;450" keyTimes="0;0.25;0.45;0.9;1" dur="10s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
+    <!-- Linha 3: Follow the white rabbit. (~500px) -->
     <clipPath id="clip3">
       <rect x="0" y="0" height="50">
-        <animate attributeName="width" values="0;0;0;450;450" keyTimes="0;0.5;0.7;0.9;1" dur="10s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;0;0;550;550" keyTimes="0;0.5;0.7;0.9;1" dur="10s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
+    <!-- Linha 4: Knock, knock. (~300px) -->
     <clipPath id="clip4">
       <rect x="0" y="0" height="50">
-        <animate attributeName="width" values="0;0;0;0;250" keyTimes="0;0.75;0.85;0.9;1" dur="10s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;0;0;0;350" keyTimes="0;0.75;0.85;0.9;1" dur="10s" repeatCount="indefinite" />
       </rect>
     </clipPath>
   </defs>
