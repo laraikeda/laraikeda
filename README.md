@@ -3,6 +3,10 @@
 <!-- Banner Principal (Preto e Verde Matrix) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=SYSTEM%20READY&fontSize=50&fontColor=00FF00&bg_color=000000" width="100%" />
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Lara+%F0%9F%91%BB;Welcome+to+my+Matrix+%F0%9F%92%BB;There+is+no+spoon." alt="Typing SVG" />
+</p>
+
 <!-- Typing Animation (Fonte de Terminal, Preto e Verde) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Wake+up,+Lara...;The+Matrix+has+you...;Follow+the+white+rabbit." alt="Typing SVG" />
