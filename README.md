@@ -29,5 +29,5 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&color=00FF00&center=true&vCenter=true&width=400&lines=Free+your+mind..." alt="Free your mind..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=2000&pause=2000&color=00FF00&center=true&vCenter=true&width=400&lines=Free+your+mind..." alt="Free your mind..." />
 </div>
