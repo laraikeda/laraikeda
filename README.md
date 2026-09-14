@@ -13,7 +13,7 @@
 <!-- LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF0000?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41)](https://linkedin.com/in/laraikeda)
 
-[![Instagram](https://shields.io)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge&logo=(https://instagram.com)
 
 <br>
 
